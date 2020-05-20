@@ -3,7 +3,7 @@
 
 I'm graduated from [Lingaya's Institute of Management And Technology](http://www.limat.org/) with Bachelors in Electronics and Communication.Currently I'm working as a Senior Software Developer in [Accenture](https://www.accenture.com/us-en/about/company/united-states)
 
-**Experience**
+## Experience
 
 Experienced working in multiple programming languages, tools & technologies .I have worked on various projects in [Accenture](https://www.accenture.com/us-en/about/company/united-states)
 
