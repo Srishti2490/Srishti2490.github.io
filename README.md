@@ -1,26 +1,21 @@
 # Introduction
 ![image](srishti1.jpg)
 
-I'm graduated from [Lingaya's Institute of Management And Technology](http://www.limat.org/) with Bachelors in Electronics and Communication.Currently I'm working as a Senior Software Engineer with a demonstrated history of working in the information technology and services industry. 
+I'm graduated from [Lingaya's Institute of Management And Technology](http://www.limat.org/) with Bachelors in Electronics and Communication.Currently I'm working as a Senior Software Developer in [Accenture](https://www.accenture.com/us-en/about/company/united-states)
 
 **Experience**
 
-Experienced working in multiple programming languages/tools/technologies such as Java, JavaScript, Typescript, Angular JS 1.3 -1.6, Angular JS 2.0 - 7.0, Node JS, HTML 5, CSS3, less, Restful web services, Bootstrap, AEM, Webpack, Grunt, underscore, JQueryUI, Performance monitoring tools, Jenkins. 
+Experienced working in multiple programming languages, tools & technologies .I have worked on various projects in [Accenture](https://www.accenture.com/us-en/about/company/united-states)
 
-```markdown
-Syntax highlighted code block
+##Skills
+-Frameworks: Angular JS 1.3 -1.6, Angular JS 2.0- 7.0, NodeJS.
+-Languages: HTML5, CSS, JavaScript( ES 5, ES 6), TypeScript, UNIX Shell scripting, Java/J2EE,Hibernate,C, 
+-Database: Oracle, MySQL 
+-Tools: MS Visual Studio, VS Code, WebStorm, Eclipse, IntelliJ, Phabricator, Documentum, Jenkins, Performance Monitoring   Tools, Debugging Tools (Firebug, Chrome Dev Tool, Fiddler, Charles).
+-Libraries: Webpack, browserify, Grunt, underscore, JQuery, Bootstrap,Gulp.
+-Version Control: GIT, SVN UnitTesting:Jasmine,Karma,Mocha,Chai,Protractor
 
-# Header 1
-## Header 2
-### Header 3
+###Contact
+You can contact me at Srishti2490 AT hotmail Dot com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+`srishti`
