@@ -1,7 +1,7 @@
 # Introduction
 ![image](srishti1.jpg)
 
-I'm graduated from Lingaya's Institute of Management And Technology[Link](http://www.limat.org/) with Bachelors in Electronics and Communication.Currently I'm working as a Senior Software Engineer with a demonstrated history of working in the information technology and services industry. 
+I'm graduated from [Lingaya's Institute of Management And Technology](http://www.limat.org/) with Bachelors in Electronics and Communication.Currently I'm working as a Senior Software Engineer with a demonstrated history of working in the information technology and services industry. 
 
 **Experience**
 
