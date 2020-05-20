@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Introduction
+I'm graduated from Lingaya's Institute of Management And Technology with Bachelors in Electronics and Communication.Currently I'm working as a Senior Software Engineer with a demonstrated history of working in the information technology and services industry. Experienced working in multiple programming languages/tools/technologies such as Java, JavaScript, Typescript, Angular JS 1.3 -1.6, Angular JS 2.0 - 7.0, Node JS, HTML 5, CSS3, less, Restful web services, Bootstrap, AEM, Webpack, Grunt, underscore, JQueryUI, Performance monitoring tools, Jenkins. 
 
 You can use the [editor on GitHub](https://github.com/Srishti2490/srishti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
