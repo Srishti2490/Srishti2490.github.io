@@ -1,7 +1,7 @@
 # Introduction
 ![image](srishti1.jpg)
 
-I'm graduated from [Lingaya's Institute of Management And Technology](http://www.limat.org/) with Bachelors in Electronics and Communication.Currently I'm working as a Senior Software Developer in [Accenture](https://www.accenture.com/us-en/about/company/united-states)
+I'm graduated from [Lingaya's Institute of Management And Technology](http://www.limat.org/) with Bachelors in Electronics and Communication.Currently working as a Senior Software Developer in [Accenture](https://www.accenture.com/us-en/about/company/united-states)
 
 ## Experience
 
@@ -14,6 +14,14 @@ Experienced working in multiple programming languages, tools & technologies .I h
 - **Tools**: MS Visual Studio, VS Code, WebStorm, Eclipse, IntelliJ, Phabricator, Documentum, Jenkins, Performance Monitoring   Tools, Debugging Tools (Firebug, Chrome Dev Tool, Fiddler, Charles).
 - **Libraries**: Webpack, browserify, Grunt, underscore, JQuery, Bootstrap,Gulp.
 - **Version Control**: GIT, SVN UnitTesting:Jasmine,Karma,Mocha,Chai,Protractor
+
+## Project Snapshots
+
+![image](srishti1.jpg)
+![image](srishti1.jpg)
+
+
+Worked on similar kind of project where application interface is created in a way that it can be used by Retailer , customer representative or customer to do shopping.
 
 ### Contact
 
