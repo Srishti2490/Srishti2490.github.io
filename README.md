@@ -17,8 +17,8 @@ Experienced working in multiple programming languages, tools & technologies .I h
 
 ## Project Snapshots
 
-![image](srishti1.jpg)
-![image](srishti1.jpg)
+![image](app1.png)
+![image](appsample.png)
 
 
 Worked on similar kind of project where application interface is created in a way that it can be used by Retailer , customer representative or customer to do shopping.
