@@ -23,6 +23,10 @@ Experienced working in multiple programming languages, tools & technologies .I h
 
 Worked on similar kind of project where application interface is created in a way that it can be used by Retailer , customer representative or customer to do shopping.
 
+![image](specapp.png)
+
+Worked on optical desktop app similar to above project , where optitian can enter user prescriptions and other details about patients. 
+
 ### Contact
 
 You can contact me at Srishti2490 AT hotmail Dot com
